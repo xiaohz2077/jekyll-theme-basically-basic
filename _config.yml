@@ -18,14 +18,14 @@ title: XHZ's Personal Website
 email:
 description: "XHZ's Personal Website"
 baseurl: "/xiaohz2077" # the optional subpath of your site, e.g. "/blog"
-url: "https://xiaohz2077.gitee.io " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://gitee.com/xiaohongzhou/xiaohz2077 " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "xiaohongzhou"
   twitter:
   picture:
 twitter_username:
 github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/logo_head portrait.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
