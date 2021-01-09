@@ -42,8 +42,8 @@
     /* line hover effect */
     a {
       position: relative;
-      color: $base-color;
-
+      color: #414141;
+            text-shadow: 4px 4px 4px #000000;
       &::before {
         display: block;
         position: absolute;
