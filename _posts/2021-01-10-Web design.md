@@ -1,12 +1,11 @@
 ---
-title: "关于我对网站设计"
+title: 关于我对网页制作与设计
 excerpt_separator: "<!--more-->"
 categories: 
- -  网站设计
+   - 网站设计
 
-tags: 
- -  Web
  ---
+
  #### 一点点感受
 
  <!--more-->
