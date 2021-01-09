@@ -1,14 +1,16 @@
 ---
-title: "行进中变大的车车"
+title: "车车！好大好快的车车！"
 excerpt_separator: "<!--more-->"
 categories:
    - SVG笔记
 tags: 
    - SVG
 ---
-- 来源：[iconfont](https://www.iconfont.cn/)
+#### 将一个静态SVG图像进行动态修改
 
 <!--more-->
+
+- 来源：[iconfont](https://www.iconfont.cn/)
 
 <style>
     #rr1{
@@ -19,13 +21,13 @@ tags:
     }
     @keyframes move{
                    0%{transform:scale(0.6);}
-                   100%{transform: translate(600px);}
+                   100%{transform: translate(1600px);}
 
     }
     
 </style>
 <body>
-    <svg t="1606147671865" class="icon" viewBox="0 0 1027 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4235" width="200" height="200"  rect id="rr1">
+    <svg t="1606147671865" class="icon" viewBox="0 0 1027 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4235" width="800" height="800"  rect id="rr1">
          <g>
         <path d="M1027.564 400.709c0 163.316-132.385 295.711-295.7 295.711-163.363 0-295.746-132.395-295.746-295.711 0-163.328 132.382-295.734 295.746-295.734 163.316 0 295.7 132.406 295.7 295.734z" fill="#FFFddd" p-id="4236"></path>
         <path d="M209.494 358.032h512.043v451.817H209.494z" fill="#FFFFFF" p-id="4237"></path><path d="M733.447 821.756H197.586V346.123h535.861v475.633zM221.402 797.94H709.63v-428H221.402v428z" fill="#2D4978" p-id="4238"></path>
@@ -38,7 +40,7 @@ tags:
          </g>   
     </svg>
     <br/>
-        <svg t="1606147671865" class="icon" viewBox="0 0 1027 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4235" width="200" height="200"  >
+        <svg t="1606147671865" class="icon" viewBox="0 0 1027 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4235" width="800" height="800"  >
             <g>
                 <path d="M1027.564 400.709c0 163.316-132.385 295.711-295.7 295.711-163.363 0-295.746-132.395-295.746-295.711 0-163.328 132.382-295.734 295.746-295.734 163.316 0 295.7 132.406 295.7 295.734z" fill="#E9EAEB" p-id="4236"></path>
                 <path d="M209.494 358.032h512.043v451.817H209.494z" fill="#FFFFFF" p-id="4237"></path><path d="M733.447 821.756H197.586V346.123h535.861v475.633zM221.402 797.94H709.63v-428H221.402v428z" fill="#2D4978" p-id="4238"></path>
