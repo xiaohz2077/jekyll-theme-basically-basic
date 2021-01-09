@@ -1,6 +1,6 @@
 ---
 title: 平面设计
 layout: category
-permalink: /categories/Graphic design/
+permalink: /categories/平面设计/
 taxonomy: 平面设计
 ---
