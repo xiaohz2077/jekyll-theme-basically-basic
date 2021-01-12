@@ -17,28 +17,16 @@ categories:
 <style>
     div.car
     {   
-         animation: move 3s ease 1s infinite alternate;
+         animation: move 1s ease 1s infinite alternate;
 
 
 
     }
-
-
-
-    div.car:hover{
-
-         width:200px
-         
-
         
-    }
-        
-
-
     @keyframes move{
                    
-                   100%{transform:scale(3);}
-                   50%{transform: translate(800);}
+                   0%{transform:scale(3);}
+                   100%{transform: translate(600);}
 
     }
     
