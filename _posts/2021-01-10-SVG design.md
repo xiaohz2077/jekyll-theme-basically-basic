@@ -36,9 +36,9 @@ categories:
 
 
     @keyframes move{
-                   25%{transform:} 
-                   50%{transform:scale(3);}
-                   100%{transform: translate(800);}
+                   
+                   100%{transform:scale(3);}
+                   50%{transform: translate(800);}
 
     }
     
