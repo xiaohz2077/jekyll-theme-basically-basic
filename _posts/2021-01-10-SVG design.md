@@ -15,22 +15,35 @@ categories:
 
 
 <style>
-    div.car:hover
+    div.car
     {   
-         width:200px
-         height: 200px
          animation: move 3s ease 1s infinite alternate;
 
 
 
     }
+
+
+
+    div.car:hover{
+
+         width:200px
+         
+
+        
+    }
+        
+
+
     @keyframes move{
-                   50%{transform:scale(2);}
+                   25%{transform:} 
+                   50%{transform:scale(3);}
                    100%{transform: translate(800);}
 
     }
     
 </style>
+
 <div class="car">
 
     <svg t="1606147671865" class="icon" viewBox="0 0 1027 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4235" width="200" height="200"  >
