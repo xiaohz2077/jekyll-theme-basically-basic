@@ -47,6 +47,7 @@
 
 .intro-subtitle {
   @include fluid-type($min-vw, $max-vw, 18px, 28px);
+  color: #FF4D00;
   font-style: italic;
 }
 
